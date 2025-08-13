@@ -1,0 +1,106 @@
+What is the value of pi (approximate)?
+2.14
+3.14
+3.41
+4.13
+b
+
+What is 12 multiplied by 11?
+121
+132
+142
+112
+b
+
+What is the square root of 64?
+6
+7
+8
+9
+c
+
+What is 15% of 200?
+25
+30
+35
+40
+b
+
+What type of angle is greater than 90 degrees?
+Acute angle
+Right angle
+Obtuse angle
+Reflex angle
+c
+
+What is 7 squared?
+42
+49
+56
+36
+b
+
+What is the sum of the interior angles of a triangle?
+90
+180
+270
+360
+b
+
+What is 100 divided by 4?
+20
+25
+30
+35
+b
+
+What is the next prime number after 7?
+9
+10
+11
+13
+c
+
+What is the formula for the area of a circle?
+2πr
+πr^2
+πd
+πr^3
+b
+
+What is 5 factorial (5!)?
+120
+60
+24
+10
+a
+
+If a = 3 and b = 4, what is the hypotenuse of the right triangle?
+5
+6
+7
+8
+a
+
+What is 10 to the power of 3?
+1000
+100
+10
+10000
+a
+
+What is the decimal equivalent of 1/4?
+0.2
+0.25
+0.5
+0.4
+b
+
+What is the common name for the number zero in math?
+Nil
+Null
+Zero
+None
+c
+
+

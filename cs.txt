@@ -1,0 +1,106 @@
+Which language is known as the mother of all programming languages?
+C
+FORTRAN
+Assembly
+Python
+b
+
+Which company developed the Java programming language?
+Sun Microsystems
+Microsoft
+IBM
+Google
+a
+
+In computers, what does 'CPU' stand for?
+Central Process Unit
+Central Processing Unit
+Computer Processing Unit
+Central Programming Unit
+b
+
+Which of the following is NOT an operating system?
+Linux
+Windows
+Oracle
+macOS
+c
+
+What does 'HTTP' stand for?
+HyperText Transfer Protocol
+HyperText Translate Protocol
+Hyper Transfer Text Protocol
+HyperTool Transfer Protocol
+a
+
+Which type of memory is volatile?
+ROM
+Flash
+RAM
+SSD
+c
+
+Who is known as the father of the computer?
+Charles Babbage
+Alan Turing
+Bill Gates
+Steve Jobs
+a
+
+Which number system is used by computers?
+Decimal
+Binary
+Octal
+Hexadecimal
+b
+
+Which of these is a database management system?
+MySQL
+HTML
+CSS
+XML
+a
+
+What does 'AI' stand for in computer science?
+Automatic Integration
+Artificial Intelligence
+Algorithmic Interface
+Application Integration
+b
+
+Which programming language is primarily used for web development?
+Java
+JavaScript
+C
+Assembly
+b
+
+What is the brain of the computer?
+RAM
+CPU
+Hard Drive
+Motherboard
+b
+
+Which device is used for input into a computer?
+Monitor
+Keyboard
+Printer
+Speaker
+b
+
+What is the full form of 'IP' in IP address?
+Internet Protocol
+Internal Program
+Integrated Process
+Internet Process
+a
+
+Which of the following is an example of open-source software?
+Microsoft Word
+Adobe Photoshop
+Linux
+macOS
+c
+
+
